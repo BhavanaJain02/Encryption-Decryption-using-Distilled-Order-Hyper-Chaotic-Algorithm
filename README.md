@@ -1,6 +1,7 @@
 # Encryption-Decryption-using-Distilled-Order-Hyper-Chaotic-Algorithm
 The algorithm is based on chaos theory. This chaotic behavior will be
 implemented through feedback loop, iterative repetitions and orderly patterns.
+
 ● Three Aspects to Research on Chaotic Image encryption :
 1. Encryption (Symmetric, Stream)
 2. Image(3D,Coloured)
