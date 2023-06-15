@@ -1,4 +1,4 @@
-classdef Senderr < matlab.apps.AppBase
+classdef Sender < matlab.apps.AppBase
 
 
 % Properties that correspond to app components 
